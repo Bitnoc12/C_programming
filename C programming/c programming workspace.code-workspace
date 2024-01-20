@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"name": "Programs",
+		"path": "Programs"
+	},
+	{
+		"name": "C练习",
+		"path": "..\\C练习"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "LINGSHI.C": "cpp",
+      "stdio.h": "c"
+	},
+	"powershell.cwd": "c:\\Users\\Alvin Ang\\Desktop\\C programming\\Programs",
+	"c-cpp-compile-run.run-in-external-terminal": false
+  }
+}
